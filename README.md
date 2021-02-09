@@ -1,10 +1,11 @@
-- Project name: Manager_wedding (quản lý nhà hàng tiệc cưới)
-- Language programming: Java
-- Database: MySQL Workbench 8.0 CE
-- User interface (UI): console (terminal)
-- IDEA: IntelliJ IDEA Community ver 2020
-- UML:  Astah UML (ver community for student)
-- Hướng dẫn sử dụng: 
+# download bản hoàn chỉnh ở Releases nhaaaa, thank you
+# Project name: Manager_wedding (quản lý nhà hàng tiệc cưới)
+# Language programming: Java
+# Database: MySQL Workbench 8.0 CE
+# User interface (UI): console (terminal)
+# IDEA: IntelliJ IDEA Community ver 2020
+# UML:  Astah UML (ver community for student)
+# Hướng dẫn sử dụng: 
 1. Download IntelliJ Community bản mới nhất
 2. Download và cài đặt MySQL bản mới nhất (link hướng dẫn download: https://openplanning.net/10221/cai-dat-co-so-du-lieu-mysql-tren-windows) nếu link die thì search google (keyword: Cài đặt cơ sở dữ liệu MySQL trên Windows)
 3. Download mysql-connector-java (Nếu không down được thì trong file có sẵn thư mục đó rồi, không cần phải down, chỉ cần import vào IntelliJ là được)
