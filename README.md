@@ -121,4 +121,10 @@ public ConnectSQL() {
 
 Sau khi tạo database, thêm dữ liệu và kết nối MySQL với IntelliJ. Mở thư mục `ProjectJava` với `IntelliJ IDEA` để chạy chương trình.
 
+## ⚡ UML - Sơ đồ lớp
+
+Yêu cầu: đã cài ASTA UML
+
+Mở file `JavaDiagram.asta` click chuột phải vào JavaDiagram -> Auto create class diagram -> Unpack subpackages -> Detailed) -> Done! Sơ đồ lớp chi tiết sẽ hiện thị ra
+
 --- HẾT ---
