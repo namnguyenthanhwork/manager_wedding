@@ -50,7 +50,7 @@ Sử dụng `mysql-connector-java` để kết nối giữa code Java với MySQ
 
 👉 Link tải: https://dev.mysql.com/downloads/connector/j/
 
-👉 Tham khảo hướng dẫn tải, cài đặt vả kết nối tại: https://viettuts.vn/java-jdbc/ket-noi-java-voi-mysql
+👉 Tham khảo hướng dẫn tải, cài đặt và kết nối tại: https://viettuts.vn/java-jdbc/ket-noi-java-voi-mysql
 
 <b>📌 Bước 4: Tạo database và thêm dữ liệu mẫu</b>
 
@@ -123,7 +123,7 @@ Sau khi tạo database, thêm dữ liệu và kết nối MySQL với IntelliJ. 
 
 ## ⚡ UML - Sơ đồ lớp
 
-Yêu cầu: đã cài ASTA UML
+Yêu cầu: đã cài ASTAH UML
 
 Mở file `JavaDiagram.asta` click chuột phải vào JavaDiagram -> Auto create class diagram -> Unpack subpackages -> Detailed) -> Done! Sơ đồ lớp chi tiết sẽ hiện thị ra
 
